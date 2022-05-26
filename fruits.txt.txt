@@ -2,3 +2,5 @@ apple
 banana
 mangoes
 pinapple
+watermelon
+nashpati
